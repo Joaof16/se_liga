@@ -1,0 +1,24 @@
+.corpo{
+    background-color: darkblue;
+    color: olive;
+    text-align: center;
+    border: 100px;
+    border-style: groove;
+    border-color: chocolate;
+}
+
+p{
+    color: darkred;
+    font-size: 20px;
+}
+
+#link:{
+    color:silver;
+    text-decoration: none;
+
+}
+
+#link:hover{
+    color:goldenrod;
+    font-size: 15px;
+}
