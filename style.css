@@ -1,10 +1,10 @@
 .corpo{
-    background-color: darkblue;
-    color: olive;
+    background-color: rgb(0, 119, 36);
+    color: rgb(136, 151, 0));
     text-align: center;
-    border: 100px;
+    border: 100px; 
     border-style: groove;
-    border-color: chocolate;
+    border-color: rgb(153, 0, 0);
 }
 
 p{
@@ -26,7 +26,7 @@ p{
 #imagem-recuperação{
     border-style:dotted;
     border:10px;
-    border-color:greenyellow
+    border-color:greenyellow;
     width:400px;
     higth:400px;
 }
